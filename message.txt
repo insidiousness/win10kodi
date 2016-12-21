@@ -1,5 +1,5 @@
-7
+8
 |||
-     ##  Neon beta1 test  ##
+     ##  Neon version 1.0 beta2 test  ##
        
-      # Notifier test 2 #
+       
