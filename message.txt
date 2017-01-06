@@ -1,9 +1,9 @@
-9
+10
 |||
      ##  Aeon version 1.1   ##  updated 1/6/2017
      
        Extended Info mod addon broken:
-       Fixed Extended Inofo mod errors and replace widgets with Specto.
+       Fixed Extended Info mod errors and replace widgets with Specto.
        
        More visible colors for main toolbar. 
        
