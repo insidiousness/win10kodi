@@ -1,4 +1,4 @@
-7
+9
 |||
        ##  Aeon version 1.2 ##  updated 1/21/2017
      
@@ -11,4 +11,4 @@
        -More visible colors for main toolbar. 
        -kiosk mode. 
        **To Update- go to programs->dark wizard. Let download and extract. 
-         Force stop kodi or unplug device. Relaunch kodi and let it fully write. Done** 
+         Force stop kodi or unplug device. Relaunch kodi and let it fully write. Done!** 
