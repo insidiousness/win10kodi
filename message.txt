@@ -1,11 +1,14 @@
-7
+8
 |||
-       ##  Aeon version 1.1 ##  updated 1/6/2017
+       ##  Aeon version 1.2 ##  updated 1/21/2017
      
-       Extended Info mod addon broken:
-       Fixed Extended Info mod errors and replace widgets with Specto.
+       **Massive skin update**
        
-       More visible colors for main toolbar. 
-       
-       kiosk mode. 
-       
+       -New backround artwork.
+       -Smoother toolbar scrolling. 
+       -Removed navigation sound effects. 
+       -Fixed Extended Info mod.
+       -More visible colors for main toolbar. 
+       -kiosk mode. 
+       **To Update- go to programs->dark wizard. Let download and exctract. 
+         Force stop kodi or unplug device. Relaunch kodi and let it fully write. Done** 
