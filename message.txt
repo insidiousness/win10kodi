@@ -1,9 +1,8 @@
-7
+8
 |||
        ##  Aeon version 1.2 ##  updated 3/26/2017
      
-       **Removed anything to do with Tvaddons. DON NOT USE EXODUS. Exodus is now maintained by Tvaddons**
-         If you want build notifications DO NOT USE anything Tvaddons! They will install programs w/o permission
+       **Removed anything to do with Tvaddons. DON NOT USE EXODUS. Exodus is now maintained by Tvaddons. If you want build notifications DO NOT USE anything Tvaddons! They will install programs w/o permission**
        -Removed Exodus.
        -Disabled skin auto updated pending 17.1 bug fixes. 
        -Fixed Extended Info mod.
