@@ -1,13 +1,7 @@
-10
+11
 |||
-       ##  Aeon version 1.2 ##  updated 3/26/2017
+       ##  Windows10 Kodi ##  updated 4/28/2017
      
-   **Removed anything to do with Tvaddons. DON NOT USE EXODUS. Exodus is now maintained by Tvaddons. If you want build notifications DO NOT USE anything Tvaddons! They will install programs w/o permission**
-       -Removed Exodus.
-       -Disabled skin auto updated pending 17.1 bug fixes. 
-       -Fixed Extended Info mod.
-       -Disabled Extended Info mod auto update  
-       -More visible colors for main toolbar. 
-       -kiosk mode. 
-       **To Update- go to programs->dark wizard. Let download and extract.. 
-         Force stop kodi or unplug device. Relaunch kodi and let it fully write. Done!** 
+    # TEST #     # TEST #     # TEST #     # TEST #
+    
+   
