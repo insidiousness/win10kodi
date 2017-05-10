@@ -1,9 +1,15 @@
-12
+13
 |||
-       ##  Windows10 Kodi ver 2.0 ##  updated 4/29/2017
-     
-     Welcome to Dark Wizard Builds
-     
-     Please report bugs / requests to: ddwmsmn@gmail.com
+       ##  Windows10 Kodi ver 2.1 ##  updated 5/10/2017
+ -My Specto Favs moved to Tv Shows menu
+ -Easy Advanced Settings for cached buffering (settings for low end/1Gb ram devices)
+ -Zen Addon
+ -Info Wars Addon (if you don't want to get red pilled, uninstall it)
+ -Disc Artwork
+ -Openload low priority (will appear low on url/link selection lists)
+  Just find Dark Wizard and install/force stop Kodi. Fresh start optional
+  Please note: you may have to re enable any addons you've installed 
+  bugs/suggestions: ddwmsmn@gmail.com   
+      
     
    
