@@ -1,19 +1,15 @@
-15|||
+16|||
 
-  ##  Windows10 Kodi ver 2.2 ##  updated 5/28/2017
-  HI FAYE
-  updated 5/28/2017
- -Updated to 17.3 KRYPTON
- -Fixed artwork not showing
-  updated 5/10/2017     
- -My Specto Favs moved to Tv Shows menu
- -Easy Advanced Settings for cached buffering (settings for low end/1Gb ram devices)
- -Zen Addon
- -Disc Artwork
- -Openload low priority (will appear low on url/link selection lists)
-  Just find Dark Wizard and install/force stop Kodi. Fresh start optional
-  Please note: you may have to re enable any addons you've installed 
-  bugs/suggestions: ddwmsmn@gmail.com   
+  ##  Windows10 Kodi ver 2.4 ##  updated10/192017
+UPDATE TO KODI 17.4 
+FIXED ELYSIUM
+ADDED BOB ADDON
+LIVE (COMING SOON)....
+FARIOUS SKIN AND BUG FIXESyou've installed 
+CLEAN INSTALL RECOMMENDED. USE HTTP:   URL IN FILE MANAGER
+bugs/suggestions: ddwmsmn@gmail.com  
+PAYPAL AND PATRION DONATIONTIONS COMING SOON. 
+PLEASE SUPPORT ME. 
       
     
    
